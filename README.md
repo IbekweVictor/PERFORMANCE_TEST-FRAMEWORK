@@ -86,7 +86,7 @@ pip install -r requirements.txt
 ### 3️⃣ Run Locust Load Test
 
 ```bash
-locust
+locust -f User/website_user.py
 ```
 
 ### 4️⃣ Access the Locust Web UI
